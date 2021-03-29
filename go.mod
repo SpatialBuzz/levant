@@ -1,4 +1,4 @@
-module github.com/hashicorp/levant
+module github.com/spatialbuzz/levant
 
 go 1.13
 
